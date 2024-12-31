@@ -1,6 +1,6 @@
-## Taks 1 Todo list
+# Taks 1 Todo list
 
-# image of app
+## image of app
 
 ![image alt](https://github.com/umamule/TodoList/blob/main/1.png?raw=true)
 
